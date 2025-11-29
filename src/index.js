@@ -7,4 +7,4 @@ function sayHello() {
 }
 
 
-console.log("ooooohhh")
+console.log();
