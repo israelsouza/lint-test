@@ -6,3 +6,8 @@ Responsável por identificar erros no codigo fonte antes da execução.
 Mantendo a coesão e a qualidade do código.
 
 Podendo tambem aplicar regras de estilo e boas práticas.
+
+## Usando ESLint
+
+ESLint é um linter popular para JavaScript e TypeScript. 
+Documentação [aqui](https://eslint.org/).
